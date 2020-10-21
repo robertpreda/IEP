@@ -1,0 +1,2 @@
+/usr/local/lib/libbasicMath.a
+/usr/local/include/basicMath.h

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/IEP/lab3/basicMath/basicMath.cpp
+stdio.h
+-
+basicMath.h
+/home/pi/Desktop/IEP/lab3/basicMath/basicMath.h
+
+/home/pi/Desktop/IEP/lab3/basicMath/basicMath.h
+iostream
+-
+

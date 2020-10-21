@@ -1,0 +1,14 @@
+/home/pi/Desktop/IEP/lab3/build/CMakeFiles/install/strip.dir
+/home/pi/Desktop/IEP/lab3/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/IEP/lab3/build/CMakeFiles/myapp.dir
+/home/pi/Desktop/IEP/lab3/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/IEP/lab3/build/CMakeFiles/list_install_components.dir
+/home/pi/Desktop/IEP/lab3/build/CMakeFiles/install.dir
+/home/pi/Desktop/IEP/lab3/build/CMakeFiles/install/local.dir
+/home/pi/Desktop/IEP/lab3/build/basicMath/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/IEP/lab3/build/basicMath/CMakeFiles/install/strip.dir
+/home/pi/Desktop/IEP/lab3/build/basicMath/CMakeFiles/basicMath.dir
+/home/pi/Desktop/IEP/lab3/build/basicMath/CMakeFiles/install/local.dir
+/home/pi/Desktop/IEP/lab3/build/basicMath/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/IEP/lab3/build/basicMath/CMakeFiles/list_install_components.dir
+/home/pi/Desktop/IEP/lab3/build/basicMath/CMakeFiles/install.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbasicMath.a  CMakeFiles/basicMath.dir/basicMath.cpp.o
+/usr/bin/ranlib libbasicMath.a
