@@ -1,0 +1,7 @@
+/home/pi/Desktop/IEP/lab5/build/CMakeFiles/install/strip.dir
+/home/pi/Desktop/IEP/lab5/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/IEP/lab5/build/CMakeFiles/more_classes.dir
+/home/pi/Desktop/IEP/lab5/build/CMakeFiles/install.dir
+/home/pi/Desktop/IEP/lab5/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/IEP/lab5/build/CMakeFiles/list_install_components.dir
+/home/pi/Desktop/IEP/lab5/build/CMakeFiles/install/local.dir
