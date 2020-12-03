@@ -1,0 +1,1 @@
+cmd_/home/robertpreda/Documents/IEP/devicetrees/testdriver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/robertpreda/Documents/IEP/devicetrees/testdriver.ko /home/robertpreda/Documents/IEP/devicetrees/testdriver.o /home/robertpreda/Documents/IEP/devicetrees/testdriver.mod.o;  true
