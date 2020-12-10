@@ -6,5 +6,3 @@ add_library(basicMath STATIC basicMath.cpp)
 
 install(TARGETS basicMath DESTINATION lib)
 install(FILES basicMath.h DESTINATION include)
-
-
